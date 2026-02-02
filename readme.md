@@ -11,7 +11,6 @@ This project is a **Machine Learning–based Music Content Analysis Web Applicat
 The goal of this project is to demonstrate practical application of machine learning and signal processing techniques in the domain of music analysis.
 
 ---
-
 ## Key Features
 
 * Upload and process audio files (e.g., WAV, MP3)
